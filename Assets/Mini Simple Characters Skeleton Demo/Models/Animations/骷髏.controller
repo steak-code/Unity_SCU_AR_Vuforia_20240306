@@ -140,9 +140,6 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: "\u89F8\u767C\u8DF3\u8E8D"
-    m_EventTreshold: 0
-  - m_ConditionMode: 1
     m_ConditionEvent: "\u89F8\u767C\u653E\u9B06"
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
